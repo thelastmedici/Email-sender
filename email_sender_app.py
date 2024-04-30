@@ -8,7 +8,7 @@ email_sender = "horpeyemijoshua@gmail.com"
 
 email_password= password
 
-email_receiver = "gewexo7710@wenkuu.com"
+email_receiver = "jochristian@student.oauife.edu.ng"
 
 subject = "I will soon become a baddass software developer."
 body = """
